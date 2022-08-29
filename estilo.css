@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+}
+.card-index{
+    background: rgb(255, 142, 142);
+}
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: antiquewhite;
+    font-family: cursive;
+    color: rgb(131, 72, 0);
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(0, 0, 0);
+    
+  }
+ 
+h1{
+   text-align: center;
+   text-decoration: underline;
+   text-shadow: 10cm;
+}
