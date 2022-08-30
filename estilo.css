@@ -1,8 +1,8 @@
 *{
-    margin: 0%;
+    margin: 2%;
 }
 .card-index{
-    background: rgb(255, 142, 142);
+    background: rgb(150, 31, 31);
 }
 body {
     width: 600px;
@@ -14,7 +14,9 @@ body {
     border: 5px solid rgb(0, 0, 0);
     
   }
- 
+.botao{
+    
+}
 h1{
    text-align: center;
    text-decoration: underline;
